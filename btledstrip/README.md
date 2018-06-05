@@ -5,7 +5,5 @@ Parts:
 - HC-05
 - 4 pin LED strip.
 
- ...
- 
 Processing program attached.
 (Bluetooth not implemented yet)
